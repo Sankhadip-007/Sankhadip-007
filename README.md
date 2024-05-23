@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sankhadipbera21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uTOT21mlPjgDdV3qVtv6ecH88xKXyNCJ/view?usp=drive_link](https://drive.google.com/file/d/1uTOT21mlPjgDdV3qVtv6ecH88xKXyNCJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/XR2gR](https://shorturl.at/XR2gR)
 
 - ⚡ Fun fact **Trying to become the Arjun in my Kurukshetra**
 
