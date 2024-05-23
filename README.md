@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sankhadip</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate developer from India</h3>
 
