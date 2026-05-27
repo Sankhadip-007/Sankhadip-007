@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&random=false&width=435&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer/researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankhadip-007&label=Profile%20views&color=0e75b6&style=flat" alt="sankhadip-007" /> </p>
 
